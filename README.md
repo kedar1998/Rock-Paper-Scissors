@@ -16,7 +16,7 @@
 
 
 ## Screenshots
-![Example screenshot](./Proj_image/ss.png)
+![Example screenshot](./Proj_Image/ss.png)
 
 
 
